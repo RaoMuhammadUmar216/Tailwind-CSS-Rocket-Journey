@@ -1,0 +1,23 @@
+{
+  "name": "acme-rocket-postcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaoMuhammadUmar216/Tailwind-CSS-Rocket-Journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaoMuhammadUmar216/Tailwind-CSS-Rocket-Journey/issues"
+  },
+  "homepage": "https://github.com/RaoMuhammadUmar216/Tailwind-CSS-Rocket-Journey#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.6"
+  }
+}
